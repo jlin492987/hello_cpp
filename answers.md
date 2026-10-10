@@ -22,7 +22,7 @@ Question 5:
 
 This line compiles a file: /usr/bin/c++    -MD -MT CMakeFiles/tracker.dir/main.cpp.o -MF CMakeFiles/tracker.dir/main.cpp.o.d -o CMakeFiles/tracker.dir/main.cpp.o -c /home/jeremy-lin/hello_cpp/main.cpp
 
-This line links: /usr/bin/cmake -E cmake_link_script CMakeFiles/tracker.dir/link.txt --verbose=1
+These lines link: /usr/bin/cmake -E cmake_link_script CMakeFiles/tracker.dir/link.txt --verbose=1
 /usr/bin/c++ -Wl,--dependency-file=CMakeFiles/tracker.dir/link.d CMakeFiles/tracker.dir/main.cpp.o CMakeFiles/tracker.dir/math_utils.cpp.o -o tracker
 
 These two lines are much longer than the commands I typed by hand in Task 2.
